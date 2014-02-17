@@ -11,7 +11,7 @@ namespace VS2013Github2_2
         static void Main(string[] args)
         {
             //this comment is in Branch 1
-            //this comment is in Branch 2
+            //this comment is in Branch 1.2
         }
     }
 }
